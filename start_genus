@@ -1,0 +1,3 @@
+#!/usr/bin/env tclsh
+
+genus -log ./logs/synth_flow.log -file ./SCRIPTS/genus_2_mmmc.tcl
